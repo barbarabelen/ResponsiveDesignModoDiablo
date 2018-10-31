@@ -11,3 +11,5 @@ https://www.uxpin.com/studio/blog/a-hands-on-guide-to-mobile-first-design/
 https://www.w3schools.com
 
 https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg (The Net Ninja youtube channel)
+
+[Slides](https://docs.google.com/presentation/d/1AqSWJbTVTRmOBnnBwa7g7xCyjt-vluhUBaZRpBaSKpo/edit?usp=sharing)
